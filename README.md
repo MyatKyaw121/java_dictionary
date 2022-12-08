@@ -8,3 +8,13 @@ Once run, it will store a set of words (defined as enum vals ) into global data 
 (For example, if user type in "book", program will display all definitions of "book" stored in global data structure.
 
 The idea of assignment is based on java OOP concepts such as encapsulation, abstraction, polymorphism.
+
+
+HOW TO RUN THE PROGRAM
+
+go to terminal and provide the command 
+
+javac Dictionary.java
+java Dictionary
+
+or using one of the IDEs such as IntelliJ
