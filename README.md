@@ -9,9 +9,9 @@ Once run, it will store a set of words (defined as enum vals ) into global data 
 
 The idea of assignment is based on java OOP concepts such as encapsulation, abstraction, polymorphism.
 
-======================
+
 HOW TO RUN THE PROGRAM
-======================
+
 
 
 go to terminal and provide the command 
